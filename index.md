@@ -1,4 +1,4 @@
-# Привет Марина, я твой сайт
+# Privet Marina, ya tvoy sait, kotoriy ya sdelal na kolenke za 3 minuti
 
 
 ## Welcome to GitHub Pages
